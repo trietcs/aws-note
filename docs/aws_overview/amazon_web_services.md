@@ -33,6 +33,9 @@ Hàng triệu khách hàng – bao gồm các công ty khởi nghiệp tăng tr�
 - Bên trong mỗi Region là một cụm các AZ.
 - Availability Zones bao gồm một hoặc nhiều data center có nguồn điện, mạng và kết nối dự phòng.
 - Các data center này hoạt động tại các cơ sở riêng biệt ở những địa điểm không được tiết lộ. Chúng được kết nối bằng các liên kết dự phòng tốc độ cao và độ trễ thấp.
+- Availability Zone cũng có tên mã như: **us-east-1a**, **us-east-1b**, **us-east-1c**
+
+<img src="images/regions_and_zones.png" width=600>
 
 ## Tham khảo
 https://aws.amazon.com/about-aws/global-infrastructure/
