@@ -5,3 +5,4 @@ Trong Module này chúng ta sẽ giới thiệu qua:
 - Các mô hình triển khai Cloud: Public Cloud, Private Cloud, Hybrid Cloud
 - Phân biệt các loại hình dịch vụ: IaaS, PaaS và SaaS
 - Giới thiệu AWS, lợi ích và sự linh hoạt của AWS
+- test
