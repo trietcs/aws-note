@@ -65,3 +65,8 @@ PaaS giúp bạn không cần quản lý cơ sở hạ tầng ngầm của tổ 
 SaaS cung cấp cho bạn sản phẩm hoàn chỉnh được nhà cung cấp dịch vụ vận hành và quản lý.
 Trong hầu hết các trường hợp, khi nhắc đến SaaS, mọi người thường nghĩ đến ứng dụng dành cho người dùng cuối (chẳng hạn như email trên nền tảng web).
 Với SaaS, bạn không cần phải nghĩ cách duy trì dịch vụ hoặc cách quản lý cơ sở hạ tầng ngầm. Bạn sẽ chỉ cần nghĩ cách bạn sẽ sử dụng phần mềm cụ thể đó. 
+
+## Tham khảo
+https://aws.amazon.com/what-is-cloud-computing/
+
+https://aws.amazon.com/types-of-cloud-computing/?nc1=h_ls
